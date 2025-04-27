@@ -50,6 +50,8 @@ Clique em "Gerar Senha" para criar uma nova senha.
 
 Clique na senha gerada para copiá-la automaticamente para sua área de transferência.
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 HTML5 para a estruturação da página.
 
@@ -61,10 +63,11 @@ JavaScript Vanilla para a lógica de geração e cópia das senhas.
 ## 📋 Print do Código
 Espaço reservado para inserção futura de prints do código
 
-
+---
 ## 🌐 Print da Página
 Espaço reservado para inserção futura de prints da página
 
+---
 
 ## ✨ Funcionalidades Extras
 Feedback visual ao copiar a senha (alerta de sucesso).
@@ -75,18 +78,14 @@ Checkbox interativos com destaque ao serem selecionados.
 
 Tooltip discreta para guiar o usuário na cópia da senha.
 
-🧠 Melhorias Futuras
-Opção para escolher entre diferentes níveis de complexidade automática.
-
-Implementar um medidor de força da senha.
-
-Gerar senhas aleatórias ao carregar a página.
+---
 
 📜 Licença
 Este projeto está licenciado sob a licença MIT.
 Sinta-se livre para usar, modificar e compartilhar! 🚀
 
 Desenvolvido com 💻 por N&G Enterprises
+---
 Autores: 
 Gabriel Vanço Gandolfi
 Natiele Nogueira de Paula
