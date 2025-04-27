@@ -61,13 +61,14 @@ JavaScript Vanilla para a lógica de geração e cópia das senhas.
 
 ## 📸 Imagens do Projeto
 ## 📋 Print do Código
-Espaço reservado para inserção futura de prints do código
 
 ![image](https://github.com/user-attachments/assets/5b00006e-866a-4c9f-abfd-26cd474ba4e1)
+<br>
+![image](https://github.com/user-attachments/assets/16ad0d36-a4ac-42a1-9c49-fb46ad54a0b5)
 
 ---
 ## 🌐 Print da Página
-Espaço reservado para inserção futura de prints da página
+![image](https://github.com/user-attachments/assets/73003e65-4586-4722-9086-2618e93d53f6)
 
 ---
 
