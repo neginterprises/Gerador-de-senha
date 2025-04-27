@@ -80,7 +80,7 @@ Tooltip discreta para guiar o usuário na cópia da senha.
 
 ---
 
-📜 Licença
+## 📜 Licença
 Este projeto está licenciado sob a licença MIT.
 Sinta-se livre para usar, modificar e compartilhar! 🚀
 
