@@ -63,6 +63,8 @@ JavaScript Vanilla para a lógica de geração e cópia das senhas.
 ## 📋 Print do Código
 Espaço reservado para inserção futura de prints do código
 
+![image](https://github.com/user-attachments/assets/5b00006e-866a-4c9f-abfd-26cd474ba4e1)
+
 ---
 ## 🌐 Print da Página
 Espaço reservado para inserção futura de prints da página
@@ -88,4 +90,5 @@ Desenvolvido com 💻 por N&G Enterprises
 ---
 Autores: 
 Gabriel Vanço Gandolfi
+<br>
 Natiele Nogueira de Paula
