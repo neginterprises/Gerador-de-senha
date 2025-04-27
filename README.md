@@ -39,3 +39,54 @@ Essas escolhas de cores proporcionam contraste e excelente legibilidade, além d
 1. **Clone ou baixe** o repositório:
    ```bash
    git clone https://github.com/seuusuario/gerador-de-senhas.git
+
+   Abra o arquivo index.html em seu navegador.
+
+Ajuste o comprimento da senha utilizando o slider.
+
+Selecione as opções desejadas (letras, números, símbolos).
+
+Clique em "Gerar Senha" para criar uma nova senha.
+
+Clique na senha gerada para copiá-la automaticamente para sua área de transferência.
+
+## 🛠️ Tecnologias Utilizadas
+HTML5 para a estruturação da página.
+
+CSS3 para o design responsivo e estilização.
+
+JavaScript Vanilla para a lógica de geração e cópia das senhas.
+
+## 📸 Imagens do Projeto
+## 📋 Print do Código
+Espaço reservado para inserção futura de prints do código
+
+
+## 🌐 Print da Página
+Espaço reservado para inserção futura de prints da página
+
+
+## ✨ Funcionalidades Extras
+Feedback visual ao copiar a senha (alerta de sucesso).
+
+Slider dinâmico que mostra em tempo real o número de caracteres escolhidos.
+
+Checkbox interativos com destaque ao serem selecionados.
+
+Tooltip discreta para guiar o usuário na cópia da senha.
+
+🧠 Melhorias Futuras
+Opção para escolher entre diferentes níveis de complexidade automática.
+
+Implementar um medidor de força da senha.
+
+Gerar senhas aleatórias ao carregar a página.
+
+📜 Licença
+Este projeto está licenciado sob a licença MIT.
+Sinta-se livre para usar, modificar e compartilhar! 🚀
+
+Desenvolvido com 💻 por N&G Enterprises
+Autores: 
+Gabriel Vanço Gandolfi
+Natiele Nogueira de Paula
