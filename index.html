@@ -7,7 +7,33 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <img src="assets/image.png" alt="Gerador de Senha" class="logo">
+
+    <main class="container-input">
+        <span>Tamanho <span id="valor"></span> caracteres</span>
+        <input type="range" class="slider" id="slider" min="5" max="25" value="15">
+        <button id="button" class="button-cta" onclick="generatePassword()">Gerar Senha</button>
+        <!-- Escolher tipo de senha, com números, letras e simbolos -->
+         input type="checkbox" id="checkbox-lowercase" name="lowercase" checked>
+         <label for="checkbox-lowercase">Incluir letras minúsculas</label>
+         <br>
+         <input type="checkbox" id="checkbox-uppercase" name="uppercase" checked>
+         <label for="checkbox-uppercase">Incluir letras maiúsculas</label>
+         <br>
+         <input type="checkbox" id="checkbox-number" name="number" checked>
+         <label for="checkbox-number">Incluir números</label>
+         <br>
+         <input type="checkbox" id="checkbox-symbol" name="symbol" checked>
+         <label for="checkbox-symbol">Incluir símbolos</label>
+    </main>
+
+    <div id="container-password" 
+    onclick="copyPassword()"
+    class="container-password hide">
+         <span class="title">Sua senha gerada foi:</span>
+         <span id="password" class="password"></span>
+         <span class="tooltip">CLique na senha para copiar</span>
+    </div>
 
 
     <script src="script.js"></script>
