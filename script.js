@@ -45,10 +45,19 @@ function generatePassword() {
     }    
 
     let password = "";
+
+
     for (let i = 0; i < passLength; i++) {
         const randomIndex = Math.floor(Math.random() * senha.length);
         password += senha.charAt(randomIndex);
+        
     }
+     // Evitar de pegar itens de outras checkbox
+        senha = "";
+    // Limpar checkbox selecionados
+    document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+        checkbox.checked = false;
+    });
 
     passwordElement.innerText = password;
     containerPassword.classList.remove("hide");

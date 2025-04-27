@@ -87,8 +87,35 @@ body {
     transform: scale(1.05);
 }
 
+.indicator {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+
+.indicator span {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+.tooltip {
+    color: #fff;
+    position: relative;
+    top: 20px;
+    padding: 6px 8px;
+    background-color: rgb(15,15,15);
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
 .container-input input[type="checkbox"] {
     accent-color: #6f00ff;
+    cursor: pointer;
+    color: #fff;
     margin-top: 10px;
 }
 
